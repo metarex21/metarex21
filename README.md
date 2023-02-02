@@ -26,11 +26,11 @@ Interested in all things **3D** and **data**!
 
 ## More about me:
 
-- 🔭 I am currently working on **Spotify Stats**(work in progress)
+- 🔭 I am currently working on [**Spoti-Stats**](https://github.com/metarex21/Spoti-Stats)
 
 - 🌱  I’m currently learning **Data Science**, **Machine Learninng** and **DSA**
 
--  📫 How to connect with me: [Mail](mailto:byomokesh21@gmail.com), [Telegram]()<!--[LinkedIn](https://www.linkedin.com/in/)-->
+-  📫 How to connect with me: [Mail](mailto:byomokesh21@gmail.com) | [Telegram](https://t.me/metarex4d) | [Instagram](https://www.instagram.com/_.m_e_t_a_r_e_x._/)<!--[LinkedIn](https://www.linkedin.com/in/)-->
 
 ---
  
