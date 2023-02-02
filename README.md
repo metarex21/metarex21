@@ -30,7 +30,7 @@ Interested in all things **3D** and **data**!
 
 - 🌱  I’m currently learning **Data Science**, **Machine Learninng** and **DSA**
 
--  📫 How to connect with me: [Mail](mailto:byomokesh21@gmail.com) | [Telegram](https://t.me/metarex4d) | [Instagram](https://www.instagram.com/_.m_e_t_a_r_e_x._/)<!--[LinkedIn](https://www.linkedin.com/in/)-->
+-  📫 How to connect with me: [Mail](mailto:byomokesh21@gmail.com) | [Telegram](https://t.me/metarex4d) | [LinkedIn](https://www.linkedin.com/in/byomokesh-senapati-12a767201/) | [Instagram](https://www.instagram.com/_.m_e_t_a_r_e_x._/)  
 
 ---
  
