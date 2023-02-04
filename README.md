@@ -1,19 +1,3 @@
-<!--
-**metarex21/metarex21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 # Hello There ✋👋✋ I'm Byomokesh Senapati.
 ## **About Me**
 
@@ -45,9 +29,9 @@ Interested in all things **3D** and **data**!
 <img title="Javascript" alt="Javascript" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png" width="30px">
 <img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg" width="40px" >
  
- &nbsp;<div align="center">
-  [![Spotify](https://novatorem-nu-five-45.vercel.app//api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/dcvxa8wbg6gxbdxgt6fa32veq)
-</div>
+<!--  &nbsp;<div align="center">
+ [![Spotify](https://novatorem-nu-five-45.vercel.app//api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/dcvxa8wbg6gxbdxgt6fa32veq)
+</div> -->
 
 
  
