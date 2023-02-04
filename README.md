@@ -63,7 +63,7 @@ Interested in all things **3D** and **data**!
 
 ### Now Streaming:
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+[![Spotify](https://showtify21.vercel.app//api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
 <br/>
 
  
