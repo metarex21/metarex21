@@ -46,7 +46,7 @@ Interested in all things **3D** and **data**!
 <img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg" width="40px" >
  
  &nbsp;<div align="center">
-  [![Spotify](https://novatorem-nu-five-45.vercel.app//api/spotify?background_color=0d1117&border_color=ffffff)(https://open.spotify.com/user/dcvxa8wbg6gxbdxgt6fa32veq)
+  [![Spotify](https://novatorem-nu-five-45.vercel.app//api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/dcvxa8wbg6gxbdxgt6fa32veq)
 </div>
 
 
