@@ -44,18 +44,23 @@ Interested in all things **3D** and **data**!
 <img title="CSS" alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" width="30px">
 <img title="Javascript" alt="Javascript" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png" width="30px">
 <img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg" width="40px" >
+ 
+ &nbsp;<div align="center">
+  [![Spotify](https://spotify-status-two.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/dcvxa8wbg6gxbdxgt6fa32veq)
+</div>
+
 
  
  </p>
  
  ---
 ## **GitHub Stats 👇** 
-<details>
+
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=metarex21&show_icons=true&theme=omni&locale=en" height="150px">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=metarex21&theme=omni&show_icons=true&layout=compact" height="150px">
 </p>
-</details> 
+
 
  
 
