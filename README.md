@@ -14,7 +14,20 @@ Interested in all things **3D** and **data**!
 
 - 🌱  I’m currently learning **Data Science**, **Machine Learninng** and **DSA**
 
--  📫 How to connect with me: [Mail](mailto:byomokesh21@gmail.com) | [Telegram](https://t.me/metarex4d) | [LinkedIn](https://www.linkedin.com/in/byomokesh-senapati-12a767201/) | [Instagram](https://www.instagram.com/_.m_e_t_a_r_e_x._/)  
+## Connect with me: 
+<!-- [Mail](mailto:byomokesh21@gmail.com) | [Telegram](https://t.me/metarex4d) | [LinkedIn](https://www.linkedin.com/in/byomokesh-senapati-12a767201/) | [Instagram](https://www.instagram.com/_.m_e_t_a_r_e_x._/)  -->
+
+<a href="https://www.linkedin.com/in/byomokesh-senapati-12a767201/" target="_blank"><img align="left" alt="Byomokesh | LinkedIn" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+
+<a href="https://www.linkedin.com/in/byomokesh-senapati-12a767201/" target="_blank"><img align="left" alt="Byomokesh | LinkedIn" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+
+<a href="https://www.behance.net/byomokesenapat" target="_blank"><img align="left" alt="Byomokesh | Behance" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/behance.svg" />
+
+<a href="https://instagram.com/_.aakarsh._" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://twitter.com/Aakarsh-Bhttps://www.w3.org/html/" target="_blank"><img align="left" alt="Aakarsh B | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
+
+
+<br />
 
 ---
  
