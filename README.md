@@ -6,7 +6,7 @@ Interested in all things **3D** and **data**!
 
 
 
----
+
 
 ## More about me:
 
@@ -17,6 +17,8 @@ Interested in all things **3D** and **data**!
 ## Connect with me: 
 <!-- [Mail](mailto:byomokesh21@gmail.com) | [Telegram](https://t.me/metarex4d) | [LinkedIn](https://www.linkedin.com/in/byomokesh-senapati-12a767201/) | [Instagram](https://www.instagram.com/_.m_e_t_a_r_e_x._/)  -->
 
+<a href="https://linktr.ee/metarex_21" target="_blank"><img align="left" alt="Linktree" width="26px" src="https://github.com/metarex21/metarex21/blob/main/Logos/linktree.svg" />
+
 <a href="mailto:byomosenapati@gmail.com" target="_blank"><img align="left" alt="Byomokesh | Gmail" width="26px" src="https://github.com/metarex21/metarex21/blob/main/Logos/gmail.svg" />
 
 <a href="https://www.linkedin.com/in/byomokesh-senapati-12a767201/" target="_blank"><img align="left" alt="Byomokesh | LinkedIn" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
@@ -26,12 +28,12 @@ Interested in all things **3D** and **data**!
 <a href="https://www.behance.net/byomokesenapat" target="_blank"><img align="left" alt="Byomokesh | Behance" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/behance.svg" />
 
 <a href="https://www.instagram.com/_.m_e_t_a_r_e_x._/" target="_blank"><img align="left" alt="Byomokesh | Instagram" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://twitter.com/Aakarsh-Bhttps://www.w3.org/html/" target="_blank"><img align="left" alt="Aakarsh B | Twitter" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
+ 
+<a href="https://twitter.com/metarex4d" target="_blank"><img align="left" alt="Twitter" width="30px" src="https://github.com/metarex21/metarex21/blob/main/Logos/twitter.svg" />
 
 
 <br />
 
----
  
 <!-- ## **💻Languages and frameworks I've worked with till now:**
 
@@ -48,7 +50,7 @@ Interested in all things **3D** and **data**!
  [![Spotify](https://novatorem-nu-five-45.vercel.app//api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/dcvxa8wbg6gxbdxgt6fa32veq)
 </div> -->
 
-### Languages and Tools:<br />
+## Languages and Tools:<br />
 <!-- HTML CSS python c c++ github js mysql -->
 
 <a href="https://www.w3.org/html/" target="_blank"><img title="HTML5" img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" /></a>
@@ -67,9 +69,9 @@ Interested in all things **3D** and **data**!
 
 <img title="MySQL" align="left" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg" width="26px" >
 <br />
-<br />
 
-### Softwares:
+
+## Softwares:
 
 <img align="left" alt="Visual Studio Code" img title="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
 
