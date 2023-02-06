@@ -1,5 +1,5 @@
 # Hello There ✋👋✋ I'm Byomokesh Senapati.
-## **About Me**
+## **About Me:**
 
 I'm a CSE undergrad at IIIT Bhubanweswar.<br>
 Interested in all things **3D** and **data**! 
@@ -25,11 +25,13 @@ Interested in all things **3D** and **data**!
  
  <a href="https://t.me/metarex4d" target="_blank"><img align="left" alt="Telegram" width="26px" src="https://github.com/metarex21/metarex21/blob/main/Logos/telegram.svg" />
   
-<a href="https://www.behance.net/byomokesenapat" target="_blank"><img align="left" alt="Byomokesh | Behance" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/behance.svg" />
-
 <a href="https://www.instagram.com/_.m_e_t_a_r_e_x._/" target="_blank"><img align="left" alt="Byomokesh | Instagram" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
  
 <a href="https://twitter.com/metarex4d" target="_blank"><img align="left" alt="Twitter" width="30px" src="https://github.com/metarex21/metarex21/blob/main/Logos/twitter.svg" />
+ 
+ <a href="https://www.behance.net/byomokesenapat" target="_blank"><img align="left" alt="Byomokesh | Behance" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/behance.svg" />
+ 
+<a href="https://sketchfab.com/metarex.4d" target="_blank"><img align="left" alt="Artstation" width="30px" src="https://github.com/metarex21/metarex21/blob/main/Logos/sketchfab.svg" />
 
 
 <br />
@@ -121,6 +123,8 @@ Interested in all things **3D** and **data**!
 </p>
 
 ---
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=metarex21&label=Profile%20views&color=6805D3&style=flat" alt="Byomokesh" /> </p>
+   <div align="center">
 
  
 
