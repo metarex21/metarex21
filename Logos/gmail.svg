@@ -1,1 +1,15 @@
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Gmail</title><path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 540 540)" id="d528001e-b479-48d8-892f-a38f08c8d9d3"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="bc423a16-51bd-42ff-9013-99323d3964b6"  >
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="d925dcda-e895-4669-b39d-081e832e7ec5"  >
+<path style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-12, -12)" d="M 24 5.457 L 24 19.366 C 24 20.27 23.268 21.002 22.364 21.002 L 18.545 21.002 L 18.545 11.73 L 12 16.64 L 5.455 11.73 L 5.455 21.003 L 1.636 21.003 C 1.201932506002209 21.00300008108877 0.7856578861895744 20.830499025826462 0.4788196089965069 20.52347319467423 C 0.17198133180343933 20.216447363521997 -0.0002653224291018219 19.80006741290903 -2.220446049250313e-16 19.366 L 0 5.457 C 0 3.4339999999999997 2.309 2.279 3.927 3.493 L 5.455 4.64 L 12 9.548 L 18.545 4.638 L 20.073 3.493 C 21.69 2.28 24 3.434 24 5.457 z" stroke-linecap="round" />
+</g>
+</svg>
