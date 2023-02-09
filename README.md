@@ -122,7 +122,13 @@ Interested in all things **3D** and **data**!
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=metarex21&theme=omni&show_icons=true&layout=compact" height="150px">
 </p>
 
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=metarex21&theme=dark" alt="metarex" /></p>
+  </div>
 
+
+  
+  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=metarex21&label=Profile%20views&color=6805D3&style=flat" alt="Byomokesh" /> </p>
    <div align="center">
 
