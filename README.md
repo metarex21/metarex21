@@ -129,8 +129,8 @@ Interested in all things **3D** and **data**!
 
   
   
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=metarex21&label=Profile%20views&color=6805D3&style=flat" alt="Byomokesh" /> </p>
-   <div align="center">-->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=metarex21&label=Profile%20views&color=6805D3&style=flat" alt="Byomokesh" /> </p>
+   <div align="center">
 
  ---
 
