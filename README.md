@@ -117,10 +117,10 @@ Interested in all things **3D** and **data**!
  ---
 ## **GitHub Stats 👇** 
 
-<p align="center">
+<!-- <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=metarex21&show_icons=true&theme=omni&locale=en" height="150px">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=metarex21&theme=omni&show_icons=true&layout=compact" height="150px">
-</p>
+</p> -->
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=metarex21&theme=dark" alt="metarex" /></p>
