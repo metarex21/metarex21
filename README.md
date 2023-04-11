@@ -10,7 +10,7 @@ Interested in all things **3D** and **data**!
 
 ## More about me:
 
-- 🔭 I am currently working on [**Spoti-Stats**](https://github.com/metarex21/Spoti-Stats)
+- 🔭 I am currently working on [**Spoti-Stats**](https://github.com/metarex21/Spoti-Stats), [**Alzheimer's Prediction**](https://github.com/metarex21/Alzheimer-Prediction) and [**Barcode Reader**](https://github.com/metarex21/Barcode-Reader)
 
 - 🌱  I’m currently learning **Data Science**, **Machine Learninng** and **DSA**
 
