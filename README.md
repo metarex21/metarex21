@@ -113,7 +113,7 @@ Interested in all things **3D** and **data**!
 
 
 
-### Now Streaming:
+## Now Streaming:
 
  [![Spotify](https://showtify21.vercel.app//api/spotify)](https://open.spotify.com/user/dcvxa8wbg6gxbdxgt6fa32veq) 
 <br/>
@@ -141,3 +141,4 @@ Interested in all things **3D** and **data**!
 
  ---
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+ ---
