@@ -1,11 +1,12 @@
-# Hello There ✋👋✋ I'm Byomokesh Senapati.
+<div align="center"><h1>Hello There ✋👋✋ I'm Byomokesh Senapati. </h1></div>
+
 ## **About Me:**
 
 I'm a CSE undergrad at IIIT Bhubanweswar.<br>
 Interested in all things **3D** and **data**! 
 
 
-
+ 
 
 
 ## More about me:
@@ -52,7 +53,7 @@ Interested in all things **3D** and **data**!
  [![Spotify](https://novatorem-nu-five-45.vercel.app//api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/dcvxa8wbg6gxbdxgt6fa32veq)
 </div> -->
 
-## Languages and Tools:<br />
+## Languages, Frameworks & Tools:<br />
 <!-- HTML CSS python c c++ github js mysql -->
 
 <a href="https://www.w3.org/html/" target="_blank"><img title="HTML5" img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" /></a>
@@ -70,6 +71,12 @@ Interested in all things **3D** and **data**!
 <img title="Javascript" align="left" alt="Javascript" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png" width="26px">
 
 <img title="MySQL" align="left" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg" width="26px" >
+ 
+ <img title="Pandas" img align="left" alt="Pandas" width="26px" src="https://github.com/metarex21/metarex21/blob/main/Logos/Pandas.svg" />
+ 
+ <img title="NumPy" img align="left" alt="NumPy" width="26px" src="https://github.com/metarex21/metarex21/blob/main/Logos/numpy.svg" />
+ 
+  <img title="OpenCV" img align="left" alt="OpenCV" width="26px" src="https://github.com/metarex21/metarex21/blob/main/Logos/opencv.svg" />
 <br />
 
 
@@ -133,4 +140,4 @@ Interested in all things **3D** and **data**!
    <div align="center">
 
  ---
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
