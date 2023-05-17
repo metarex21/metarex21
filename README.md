@@ -84,7 +84,7 @@ Interested in all things **3D** and **data**!
 
 <img align="left" alt="Visual Studio Code" img title="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
 
-<a href="https://www.anaconda.com/" target="_blank"> <img align="left" img title="Anaconda" alt="Anaconda" width="26px" src="https://www.anaconda.com/assets/build/img/anaconda_logo_circle.svg" /> </a>
+<a href="https://www.anaconda.com/" target="_blank"> <img align="left" img title="Anaconda" alt="Anaconda" width="26px" src="https://anaconda.org/static/img/anaconda-symbol.svg" /> </a>
 
 
 <a href="https://www.blender.org" target="_blank"> <img title="Blender" img align="left" alt="Blender" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg"/> </a>
