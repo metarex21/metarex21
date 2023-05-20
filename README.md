@@ -18,65 +18,52 @@ Interested in all things **3D** and **data**!
 ## Connect with me: 
 <!-- [Mail](mailto:byomokesh21@gmail.com) | [Telegram](https://t.me/metarex4d) | [LinkedIn](https://www.linkedin.com/in/byomokesh-senapati-12a767201/) | [Instagram](https://www.instagram.com/_.m_e_t_a_r_e_x._/)  -->
 
-<a href="https://linktr.ee/metarex_21" target="_blank"><img align="left" alt="Linktree" width="26px" src="https://github.com/metarex21/metarex21/blob/main/Logos/linktree.svg" />
+<a href="https://linktr.ee/metarex_21" target="_blank"><img align="left" alt="Linktree" width="26px" src="https://seeklogo.com/images/L/linktree-logo-6FC3ADB679-seeklogo.com.png" />
 
-<a href="mailto:byomosenapati@gmail.com" target="_blank"><img align="left" alt="Byomokesh | Gmail" width="26px" src="https://github.com/metarex21/metarex21/blob/main/Logos/gmail.svg" />
+<a href="mailto:byomosenapati@gmail.com" target="_blank"><img align="left" alt="Byomokesh | Gmail" width="26px" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" />
 
-<a href="https://www.linkedin.com/in/byomokesh-senapati-12a767201/" target="_blank"><img align="left" alt="Byomokesh | LinkedIn" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://www.linkedin.com/in/byomokesh-senapati-12a767201/" target="_blank"><img align="left" alt="Byomokesh | LinkedIn" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
  
- <a href="https://t.me/metarex4d" target="_blank"><img align="left" alt="Telegram" width="26px" src="https://github.com/metarex21/metarex21/blob/main/Logos/telegram.svg" />
+ <a href="https://t.me/metarex4d" target="_blank"><img align="left" alt="Telegram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
   
-<a href="https://www.instagram.com/_.m_e_t_a_r_e_x._/" target="_blank"><img align="left" alt="Byomokesh | Instagram" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://www.instagram.com/_.m_e_t_a_r_e_x._/" target="_blank"><img align="left" alt="Byomokesh | Instagram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Instagram_image.png" />
  
-<a href="https://twitter.com/metarex4d" target="_blank"><img align="left" alt="Twitter" width="30px" src="https://github.com/metarex21/metarex21/blob/main/Logos/twitter.svg" />
+<a href="https://twitter.com/metarex4d" target="_blank"><img align="left" alt="Twitter" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
  
- <a href="https://www.behance.net/byomokesenapat" target="_blank"><img align="left" alt="Byomokesh | Behance" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/behance.svg" />
+ <a href="https://www.behance.net/byomokesenapat" target="_blank"><img align="left" alt="Byomokesh | Behance" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/behance-1-logo-png-transparent.png" />
  
-<a href="https://sketchfab.com/metarex.4d" target="_blank"><img align="left" alt="Artstation" width="30px" src="https://github.com/metarex21/metarex21/blob/main/Logos/sketchfab.svg" />
+<a href="https://sketchfab.com/metarex.4d" target="_blank"><img align="left" alt="Sketchfab" width="30px" src="https://static.sketchfab.com/img/press/logos/sketchfab-logo.png" />
 
 
 <br />
 
  
-<!-- ## **💻Languages and frameworks I've worked with till now:**
 
-<p align="center">
-<img title="C" alt="C" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="30px">
-<img title="C++" alt="C++" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" width="30px">
-<img title="Python" alt="Python" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="30px">
-<img title="HTML" alt="HTML" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40px">
-<img title="CSS" alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" width="30px">
-<img title="Javascript" alt="Javascript" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png" width="30px">
-<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg" width="40px" > -->
- 
-<!--  &nbsp;<div align="center">
- [![Spotify](https://novatorem-nu-five-45.vercel.app//api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/dcvxa8wbg6gxbdxgt6fa32veq)
-</div> -->
 
 ## Languages, Frameworks & Tools:<br />
 <!-- HTML CSS python c c++ github js mysql -->
 
-<a href="https://www.w3.org/html/" target="_blank"><img title="HTML5" img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" /></a>
+<a href="https://www.w3.org/html/" target="_blank"><img title="HTML5" img align="left" alt="HTML5" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" /></a>
 
-<a href="https://www.w3schools.com/css/" target="_blank"><img title="CSS" img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img title="CSS" img align="left" alt="CSS3" width="26px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" /></a>
 
-<a href="https://www.python.org" target="_blank"> <img align="left" img title="Python" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true" /> </a>
+<a href="https://www.python.org" target="_blank"> <img align="left" img title="Python" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /> </a>
 
-<a href="https://www.cprogramming.com/" target="_blank"> <img title="C" img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank"> <img title="C" img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"/> </a>
 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img title="C++" img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img title="C++" img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/> </a>
 
-<img title="GitHub" img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+<img title="GitHub" img align="left" alt="GitHub" width="26px" src="https://png2.cleanpng.com/sh/4f0d6197342eb153fee0f2ba9e61d504/L0KzQYm3WMA4N6ttiZH0aYP2gLBuTfdqfJl6ep95YXfog37zjBdwNaNqiNH8aYTygsq0hv9zc15sgeZxdXKwfLFuj70yNZ5mf9d3dIn2PYbpVsllbWg2eqc6Mka4Pom8WMYxP2c7Sac8M0a5RImBUcc1OWgziNDw/kisspng-github-pages-logo-repository-fork-github-logo-1-magentys-5b69de71b51265.8586076615336648817417.png" />
 
-<img title="Javascript" align="left" alt="Javascript" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png" width="26px">
+<img title="Javascript" align="left" alt="Javascript" src="https://logosdownload.com/logo/javascript-logo.svg" width="26px">
 
-<img title="MySQL" align="left" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg" width="26px" >
+<img title="MySQL" align="left" alt="MySQL" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="26px" >
  
- <img title="Pandas" img align="left" alt="Pandas" width="26px" src="https://github.com/metarex21/metarex21/blob/main/Logos/Pandas.svg" />
+ <img title="Pandas" img align="left" alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" />
  
- <img title="NumPy" img align="left" alt="NumPy" width="26px" src="https://github.com/metarex21/metarex21/blob/main/Logos/numpy.svg" />
+ <img title="NumPy" img align="left" alt="NumPy" width="26px" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" />
  
-  <img title="OpenCV" img align="left" alt="OpenCV" width="26px" src="https://github.com/metarex21/metarex21/blob/main/Logos/opencv.svg" />
+  <img title="OpenCV" img align="left" alt="OpenCV" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />
 <br />
 
 
@@ -84,14 +71,14 @@ Interested in all things **3D** and **data**!
 
 <img align="left" alt="Visual Studio Code" img title="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
 
-<a href="https://www.anaconda.com/" target="_blank"> <img align="left" img title="Anaconda" alt="Anaconda" width="26px" src="https://anaconda.org/static/img/anaconda-symbol.svg" /> </a>
+<a href="https://www.anaconda.com/" target="_blank"> <img align="left" img title="Anaconda" alt="Anaconda" width="26px" src="https://www.clipartmax.com/png/full/349-3490136_anaconda-icon-anaconda-python-icon.png" /> </a>
 
 
 <a href="https://www.blender.org" target="_blank"> <img title="Blender" img align="left" alt="Blender" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg"/> </a>
 
 <a href="https://www.adobe.com/in/products/substance3d-painter.html" target="_blank"> <img title="Substance Painter" img align="left" alt="Substance Painter" width="24px" src="https://cdn.worldvectorlogo.com/logos/substance-painter.svg"/> </a>
 
-<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" img title="Photoshop" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
+<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" img title="Photoshop" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"/> </a>
 
 <a href="https://lightroom.adobe.com/home" target="_blank"> <img align="left" img title="Lightroom" alt="LightRoom" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" /> </a>
 
