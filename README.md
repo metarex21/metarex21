@@ -18,9 +18,9 @@ Interested in all things **3D** and **data**!
 ## Connect with me: 
 <!-- [Mail](mailto:byomokesh21@gmail.com) | [Telegram](https://t.me/metarex4d) | [LinkedIn](https://www.linkedin.com/in/byomokesh-senapati-12a767201/) | [Instagram](https://www.instagram.com/_.m_e_t_a_r_e_x._/)  -->
 
-<a href="https://linktr.ee/metarex_21" target="_blank"><img align="left" alt="Linktree" width="26px" src="https://seeklogo.com/images/L/linktree-logo-6FC3ADB679-seeklogo.com.png" />
+<a href="https://linktr.ee/metarex_21" target="_blank"><img align="left" alt="Linktree" width="22px" src="https://seeklogo.com/images/L/linktree-logo-6FC3ADB679-seeklogo.com.png" />
 
-<a href="mailto:byomosenapati@gmail.com" target="_blank"><img align="left" alt="Byomokesh | Gmail" width="26px" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" />
+<a href="mailto:byomosenapati@gmail.com" target="_blank"><img align="left" alt="Byomokesh | Gmail" width="30px" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" />
 
 <a href="https://www.linkedin.com/in/byomokesh-senapati-12a767201/" target="_blank"><img align="left" alt="Byomokesh | LinkedIn" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
  
@@ -28,11 +28,11 @@ Interested in all things **3D** and **data**!
   
 <a href="https://www.instagram.com/_.m_e_t_a_r_e_x._/" target="_blank"><img align="left" alt="Byomokesh | Instagram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Instagram_image.png" />
  
-<a href="https://twitter.com/metarex4d" target="_blank"><img align="left" alt="Twitter" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
+<a href="https://twitter.com/metarex4d" target="_blank"><img align="left" alt="Twitter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
  
- <a href="https://www.behance.net/byomokesenapat" target="_blank"><img align="left" alt="Byomokesh | Behance" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/behance-1-logo-png-transparent.png" />
+ <a href="https://www.behance.net/byomokesenapat" target="_blank"><img align="left" alt="Byomokesh | Behance" width="27px" src="https://cdn.freebiesupply.com/logos/large/2x/behance-1-logo-png-transparent.png" />
  
-<a href="https://sketchfab.com/metarex.4d" target="_blank"><img align="left" alt="Sketchfab" width="30px" src="https://static.sketchfab.com/img/press/logos/sketchfab-logo.png" />
+<a href="https://sketchfab.com/metarex.4d" target="_blank"><img align="left" alt="Sketchfab" width="27px" src="https://static.sketchfab.com/img/press/logos/sketchfab-logo.png" />
 
 
 <br />
@@ -43,7 +43,7 @@ Interested in all things **3D** and **data**!
 ## Languages, Frameworks & Tools:<br />
 <!-- HTML CSS python c c++ github js mysql -->
 
-<a href="https://www.w3.org/html/" target="_blank"><img title="HTML5" img align="left" alt="HTML5" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" /></a>
+<a href="https://www.w3.org/html/" target="_blank"><img title="HTML5" img align="left" alt="HTML5" width="26px" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" /></a>
 
 <a href="https://www.w3schools.com/css/" target="_blank"><img title="CSS" img align="left" alt="CSS3" width="26px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" /></a>
 
@@ -61,7 +61,7 @@ Interested in all things **3D** and **data**!
  
  <img title="Pandas" img align="left" alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" />
  
- <img title="NumPy" img align="left" alt="NumPy" width="26px" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" />
+ <img title="NumPy" img align="left" alt="NumPy" width="28px" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" />
  
   <img title="OpenCV" img align="left" alt="OpenCV" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />
 <br />
