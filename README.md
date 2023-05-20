@@ -43,9 +43,11 @@ Interested in all things **3D** and **data**!
 ## Languages, Frameworks & Tools:<br />
 <!-- HTML CSS python c c++ github js mysql -->
 
-<a href="https://www.w3.org/html/" target="_blank"><img title="HTML5" img align="left" alt="HTML5" width="26px" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" /></a>
+<a href="https://www.w3.org/html/" target="_blank"><img title="HTML5" img align="left" alt="HTML5" width="28px" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" /></a>
 
-<a href="https://www.w3schools.com/css/" target="_blank"><img title="CSS" img align="left" alt="CSS3" width="26px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img title="CSS" img align="left" alt="CSS3" width="28px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" /></a>
+ 
+ <img title="Javascript" align="left" alt="Javascript" src="https://www.freepnglogos.com/uploads/javascript/javascript-online-logo-for-website-0.png" width="24px">
 
 <a href="https://www.python.org" target="_blank"> <img align="left" img title="Python" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /> </a>
 
@@ -55,13 +57,13 @@ Interested in all things **3D** and **data**!
 
 <img title="GitHub" img align="left" alt="GitHub" width="26px" src="https://png2.cleanpng.com/sh/4f0d6197342eb153fee0f2ba9e61d504/L0KzQYm3WMA4N6ttiZH0aYP2gLBuTfdqfJl6ep95YXfog37zjBdwNaNqiNH8aYTygsq0hv9zc15sgeZxdXKwfLFuj70yNZ5mf9d3dIn2PYbpVsllbWg2eqc6Mka4Pom8WMYxP2c7Sac8M0a5RImBUcc1OWgziNDw/kisspng-github-pages-logo-repository-fork-github-logo-1-magentys-5b69de71b51265.8586076615336648817417.png" />
 
-<img title="Javascript" align="left" alt="Javascript" src="https://logosdownload.com/logo/javascript-logo.svg" width="26px">
 
-<img title="MySQL" align="left" alt="MySQL" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="26px" >
+
+<img title="MySQL" align="left" alt="MySQL" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="38px" >
  
  <img title="Pandas" img align="left" alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" />
  
- <img title="NumPy" img align="left" alt="NumPy" width="28px" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" />
+ <img title="NumPy" img align="left" alt="NumPy" width="32px" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" />
  
   <img title="OpenCV" img align="left" alt="OpenCV" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />
 <br />
