@@ -1,4 +1,4 @@
-<div align="center"><h1>Hello There ✋👋✋ I'm Byomokesh Senapati. </h1></div>
+<div align="center"><h1>Hello There ✋👋✋ I'm Byomokesh Senapati <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" width="36"> </h1></div>
 
 ## **About Me:**
 
