@@ -11,7 +11,7 @@ Interested in all things **3D** and **data**!
 
 ## More about me:
 
-- 🔭 I am currently working on [**rRenderBuzz**](https://github.com/metarex21/RenderBuzz) and [**Alzheimer's Prediction**](https://github.com/metarex21/Alzheimer-Prediction)
+- 🔭 I am currently working on [**RenderBuzz**](https://github.com/metarex21/RenderBuzz) and [**Alzheimer's Prediction**](https://github.com/metarex21/Alzheimer-Prediction)
 
 - 🌱  I’m currently learning **Data Science**, **Machine Learninng** and **DSA**
 
