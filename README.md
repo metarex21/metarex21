@@ -55,7 +55,7 @@ Interested in all things **3D** and **data**!
 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img title="C++" img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/> </a>
 
-<img title="GitHub" img align="left" alt="GitHub" width="50px" src="https://www.logo.wine/a/logo/GitHub/GitHub-Icon-White-Logo.wine.svg" />
+<a href="https://github.com/metarex21" target="_blank"><img title="GitHub" img align="left" alt="GitHub" width="50px" src="https://www.logo.wine/a/logo/GitHub/GitHub-Icon-White-Logo.wine.svg" /></a>
 
 
 
