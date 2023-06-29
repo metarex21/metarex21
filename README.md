@@ -112,15 +112,18 @@ Interested in all things **3D** and **data**!
  </p>
  
  ---
-## **GitHub Stats 👇** 
+## **Stats 👇** 
 
  <p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=metarex21&show_icons=true&theme=omni&locale=en" height="150px">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=metarex21&theme=omni&show_icons=true&layout=compact" height="150px">
+  <img src = "https://github-readme-stats.vercel.app/api?username=metarex21&show_icons=true&theme=dark&locale=en" height="200px">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=metarex21&theme=dark&show_icons=true&layout=compact" height="200px">
 </p> 
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=metarex21&theme=dark" alt="metarex" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=metarex21&theme=dark" alt="metarex" />
+ 
+</p>
+<!-- <p><img align="center" src="https://leetcard.jacoblin.cool/metarex21?theme=dark" alt="metarex" /></p> -->
   </div>
 
 
@@ -131,5 +134,4 @@ Interested in all things **3D** and **data**!
 
  ---
     
-<!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) -->
 
