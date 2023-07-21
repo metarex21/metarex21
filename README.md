@@ -91,7 +91,7 @@ Interested in all things **3D** and **data**!
 
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"> <img align="left" img title="After Effects" alt="Afer Effects" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" /> </a>
 
- <a href="https://www.unrealengine.com/en-US" target="_blank"> <img align="left" img title="Unreal Engine" alt="Unreal Engine" width="26px" src="https://www.pikpng.com/pngl/b/543-5434947_unreal-engine-logo-unreal-engine-logo-ico-clipart.png" /> </a>
+ <a href="https://www.unrealengine.com/en-US" target="_blank"> <img align="left" img title="Unreal Engine" alt="Unreal Engine" width="26px" src="https://www.pikpng.com/pngl/b/543-5434947_unreal-engine-logo-unreal-engine-logo-ico-clipart.png" style="filter: invert(100%); fill: white;" /> </a>
 
 <a href="https://www.figma.com/" target="_blank"> <img align="left" img title="Figma" alt="Figma" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" /> </a>
 
