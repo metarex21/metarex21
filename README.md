@@ -19,25 +19,27 @@ Interested in all things **3D** and **data**!
 ## Connect with me: 
 <!-- [Mail](mailto:byomokesh21@gmail.com) | [Telegram](https://t.me/metarex4d) | [LinkedIn](https://www.linkedin.com/in/byomokesh-senapati-12a767201/) | [Instagram](https://www.instagram.com/_.m_e_t_a_r_e_x._/)  -->
 
-<a href="https://linktr.ee/metarex_21" target="_blank"><img align="left" alt="Linktree" width="22px" src="https://seeklogo.com/images/L/linktree-logo-6FC3ADB679-seeklogo.com.png" />
-
-<a href="mailto:byomosenapati@gmail.com" target="_blank"><img align="left" alt="Byomokesh | Gmail" width="30px" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" />
-
-<a href="https://www.linkedin.com/in/byomokesh-senapati-12a767201/" target="_blank"><img align="left" alt="Byomokesh | LinkedIn" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
- 
- <a href="https://t.me/metarex4d" target="_blank"><img align="left" alt="Telegram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
-  
-<a href="https://www.instagram.com/_.m_e_t_a_r_e_x._/" target="_blank"><img align="left" alt="Byomokesh | Instagram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Instagram_image.png" />
- 
-<a href="https://twitter.com/metarex4d" target="_blank"><img align="left" alt="Twitter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
- 
- <a href="https://www.behance.net/byomokesenapat" target="_blank"><img align="left" alt="Byomokesh | Behance" width="27px" src="https://cdn.freebiesupply.com/logos/large/2x/behance-1-logo-png-transparent.png" />
- 
-<a href="https://sketchfab.com/metarex.4d" target="_blank"><img align="left" alt="Sketchfab" width="27px" src="https://static.sketchfab.com/img/press/logos/sketchfab-logo.png" />
-
-
-<br />
-
+<div>
+  <a href="https://linktr.ee/metarex_21" target="_blank"><img alt="Linktree" width="22px" src="https://seeklogo.com/images/L/linktree-logo-6FC3ADB679-seeklogo.com.png" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:byomosenapati@gmail.com" target="_blank"><img alt="Byomokesh | Gmail" width="30px" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/byomokesh-senapati-12a767201/" target="_blank"><img alt="Byomokesh | LinkedIn" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/metarex4d" target="_blank"><img alt="Telegram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_.m_e_t_a_r_e_x._/" target="_blank"><img alt="Byomokesh | Instagram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Instagram_image.png" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/metarex4d" target="_blank"><img alt="Twitter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.behance.net/byomokesenapat" target="_blank"><img alt="Byomokesh | Behance" width="27px" src="https://cdn.freebiesupply.com/logos/large/2x/behance-1-logo-png-transparent.png" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://sketchfab.com/metarex.4d" target="_blank"><img alt="Sketchfab" width="27px" src="https://static.sketchfab.com/img/press/logos/sketchfab-logo.png" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/Byomokesh?hr_r=1" target="_blank"><img alt="HackerRank" width="32px" src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/byomokeshsenapati" target="_blank"><img alt="Kaggle" width="23px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" /></a>
+</div>
  
 
 
