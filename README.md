@@ -125,17 +125,18 @@ Interested in all things **3D** and **data**!
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=metarex21&theme=dark" alt="metarex" />
- 
+<p><img align="center" src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?byomokeshsenapati" alt="metarex" />
 </p>
 <!-- <p><img align="center" src="https://leetcard.jacoblin.cool/metarex21?theme=dark" alt="metarex" /></p> -->
-  </div>
+ 
 
-
+<p>
+ 
+</p>
+   </div>
   
-  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=metarex21&label=Profile%20views&color=6805D3&style=flat" alt="Byomokesh" /> </p>
-   <div align="center">
 
  ---
-    
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=metarex21&label=Profile%20views&color=6805D3&style=flat" alt="Byomokesh" /> </p>
+   <div align="center">
