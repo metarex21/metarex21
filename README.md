@@ -13,7 +13,7 @@ Interested in all things **3D** and **data**!
 
 - 🔭 I am currently working on [**CarSense**](https://github.com/metarex21/CarSense) and new blender addons like [**PolyBake**](https://github.com/metarex21/PolyBake) 
 - 🌱 I’m currently learning **Deployment** on Vercel, **DS & ML** and **DSA**
-- 🐱‍🚀 I'm currently learning to extract data from various websites(using their API)
+- 🐱‍🚀 I'm currently exploring methods to extract data from various websites(using their API)
 - 💡 Quick Trivia: What is light and comes in blue? Light Blue
 
 ## Connect with me: 
