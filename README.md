@@ -69,6 +69,8 @@ Interested in all things **3D** and **data**!
  <img title="NumPy" img align="left" alt="NumPy" width="32px" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" />
  
   <img title="OpenCV" img align="left" alt="OpenCV" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />
+
+   <img title="Jinja" img align="left" alt="Jinja" width="30px" src="https://quintagroup.com/cms/python/images/jinja2.png/@@images/919c2c3d-5b4e-4650-943a-b0df263f851b.png" />
 <br />
 
 
