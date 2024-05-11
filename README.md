@@ -14,7 +14,7 @@ Interested in all things **3D** and **data**!
 - 🔭 I am currently working on [**CarSense**](https://github.com/metarex21/CarSense) and new blender addons like [**PolyBake**](https://github.com/metarex21/PolyBake) 
 - 🌱 I’m currently learning **Deployment** on Vercel, **DS & ML** and **DSA**
 - 🐱‍🚀 I'm currently exploring methods to extract data from various websites(using their API)
-- 💡 Quick Trivia: What is light and comes in blue? Light Blue
+- 👾 There are 10 type of people in this world: Those who understand binary and those who don't.
 
 ## Connect with me: 
 <!-- [Mail](mailto:byomokesh21@gmail.com) | [Telegram](https://t.me/metarex4d) | [LinkedIn](https://www.linkedin.com/in/byomokesh-senapati-12a767201/) | [Instagram](https://www.instagram.com/_.m_e_t_a_r_e_x._/)  -->
