@@ -127,7 +127,7 @@ Interested in all things **3D** and **data**!
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=metarex21&theme=dark" alt="metarex" />
-<p><a href="https://www.kaggle.com/byomokeshsenapati"><img align="center" src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?byomokeshsenapati" alt="metarex" /></a>
+<!-- <p><a href="https://www.kaggle.com/byomokeshsenapati"><img align="center" src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?byomokeshsenapati" alt="metarex" /></a> -->
 </p>
 <!-- <p><img align="center" src="https://leetcard.jacoblin.cool/metarex21?theme=dark" alt="metarex" /></p> -->
  
