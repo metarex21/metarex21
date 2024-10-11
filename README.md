@@ -2,7 +2,7 @@
 
 ## **About Me:**
 
-I'm a CSE undergrad at IIIT Bhubanweswar.<br>
+CSE undergrad at IIIT Bhubanweswar.<br>
 Interested in all things **3D** and **data**!
 
 
